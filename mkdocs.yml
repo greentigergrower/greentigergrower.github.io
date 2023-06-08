@@ -1,7 +1,19 @@
-site_name: My Docs
+site_name: GreenTiger WeeD
 site_url: https://greentigergrower.github.io
+
+nav:
+  - Home: index.md
+  - Base:
+    - Historia: 01-base/01-historia/README.md
+    - Jardinagem: 01-base/02-jardinagem/README.md
+  - Grow:
+    - Imagens (Runners): 01-base/02-jardinagem/README.md
+  - Sobre: quem/README.md
+
 theme:
   name: material
+  logo: logo.png
+  favicon: logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,7 +24,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: pt-br
   palette:
     - scheme: default
       toggle:
