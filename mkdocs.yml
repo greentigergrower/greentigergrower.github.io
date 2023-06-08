@@ -7,7 +7,13 @@ nav:
     - Historia: 01-base/01-historia/README.md
     - Jardinagem: 01-base/02-jardinagem/README.md
   - Grow:
-    - Imagens (Runners): 01-base/02-jardinagem/README.md
+    - Local: 02-grow/01-local/README.md
+    - Substrato: 02-grow/02-substratos/README.md
+    - Vegetativo: 02-grow/03-vegetativo/README.md
+    - Floração: 02-grow/04-floracao/README.md
+  - Dicas:
+    - Pragas: 03-tips/01-pragas/README.md
+    - Receitas: 03-tips/02-receitas/README.md
   - Sobre: quem/README.md
 
 theme:
