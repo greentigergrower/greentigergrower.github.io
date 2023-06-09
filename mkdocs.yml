@@ -9,11 +9,16 @@ nav:
   - Grow:
     - Local: 02-grow/01-local/README.md
     - Substrato: 02-grow/02-substratos/README.md
-    - Vegetativo: 02-grow/03-vegetativo/README.md
-    - Floração: 02-grow/04-floracao/README.md
+    - Germinação: 02-grow/03-germinacao/README.md
+    - Vegetativo: 02-grow/04-vegetativo/README.md
+    - Floração: 02-grow/05-floracao/README.md
+  - Extração: 
+    - Óleo: 03-extracao/01-oleo/README.md
+    - Hash: 03-extracao/02-hash/README.md
+    - Rosin: 03-extracao/03-rosin/README.md
   - Dicas:
-    - Pragas: 03-tips/01-pragas/README.md
-    - Receitas: 03-tips/02-receitas/README.md
+    - Pragas: 04-tips/01-pragas/README.md
+    - Receitas: 04-tips/02-receitas/README.md
   - Sobre: quem/README.md
 
 theme:

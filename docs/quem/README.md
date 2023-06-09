@@ -5,7 +5,7 @@ Na verdade, até o presente momento existe apenas uma pessoa responsável por es
 A motivação desse repositório é apenas compartilhar informações relacionadas sobre essa sagrada erva, sobre historia, cultivo pessoal e cuidados para a extração de óleo com canabidiol para alguns pacientes medicinais, são eles em ordem de chegada:
 
 - Meu pai (Alzheimer)
-- Meu dog (Eplepsia/Dor crônica)
+- Meu dog (Epilepsia/Dor crônica)
 - Eu (Ansiedade/Insónia)
 
 Aproveitem o material, e ele está em constante evolução e mudança.
