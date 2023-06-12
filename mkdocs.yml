@@ -54,3 +54,6 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/greentiger.alien
+  analytics:
+    provider: google
+    property: G-S8Z38MG7BX
