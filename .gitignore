@@ -1,1 +1,6 @@
 site/
+docs/03-avancado/
+docs/04-extracao/
+docs/05-tips/
+docs/blog/
+*.DS_Store

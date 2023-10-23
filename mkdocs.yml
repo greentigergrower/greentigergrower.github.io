@@ -1,24 +1,41 @@
 site_name: GreenTiger WeeD
 site_url: https://greentigergrower.github.io
 
+plugins: 
+  - blog: 
+      blog_toc: true
+      post_date_format: medium
+      post_url_date_format: yyyy/MM
+      post_url_format: "{date}/{slug}"
+
 nav:
-  - Home: index.md
   - Base:
-    - Historia: 01-base/01-historia/README.md
-    - Jardinagem: 01-base/02-jardinagem/README.md
+    - Historia no Mundo: 01-base/01-mundo/README.md
+    - Histora no Brasil: 01-base/02-brasil/README.md
+    - Etnobotânica: 01-base/03-etnobotanica/README.md
+    - Etnofarmacologia: 01-base/04-etnofarmacologia/README.md
   - Grow:
+    - Objetivo: 02-grow/00-objetivo/README.md
     - Local: 02-grow/01-local/README.md
     - Substrato: 02-grow/02-substratos/README.md
-    - Germinação: 02-grow/03-germinacao/README.md
-    - Vegetativo: 02-grow/04-vegetativo/README.md
-    - Floração: 02-grow/05-floracao/README.md
-  - Extração: 
-    - Óleo: 03-extracao/01-oleo/README.md
-    - Hash: 03-extracao/02-hash/README.md
-    - Rosin: 03-extracao/03-rosin/README.md
-  - Dicas:
-    - Pragas: 04-tips/01-pragas/README.md
-    - Receitas: 04-tips/02-receitas/README.md
+    - Alimentação: 02-grow/03-alimentacao/README.md
+    - Estágios: 02-grow/04-estagios/README.md
+    - Podas: 02-grow/05-podas/README.md
+    - Finalização: 02-grow/06-final/README.md
+  # - Avançado:
+  #   - Biologia: 03-avancado/01-biologia/README.md
+  #   - Solo: 03-avancado/02-solo/README.md
+  #   - Regas: 03-avancado/03-regas/README.md
+  #   - Pragas: 03-avancado/04-pragas/README.md
+  #   - Projetos: 03-avancado/05-projetos/README.md
+  # - Extração: 
+  #   - Óleo (RSO): 04-extracao/01-oleo/README.md
+  #   - Hash: 04-extracao/02-hash/README.md
+  #   - Rosin: 04-extracao/03-rosin/README.md
+  # - Dicas:
+  #   - Receitas: 05-tips/01-receitas/README.md
+  # - Blog:
+  #   - blog/index.md
   - Sobre: quem/README.md
 
 theme:
