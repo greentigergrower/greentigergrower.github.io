@@ -1,4 +1,0 @@
-
-### **Colheita (Harvest)**
-
-### **Cura**

@@ -44,7 +44,7 @@ Nesse método, as plantas dependem da luz solar, das variações de temperatura 
     - Maior espaço
 
 - **Contras**:
-    - Expoto à pragas
+    - Exposto à pragas
     - Sem controle do ambiente/clima
     - Expoto a chuvas
     - Demora mais a florecer/frutos

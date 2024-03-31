@@ -7,7 +7,7 @@ A motivação desse repositório é apenas compartilhar informações relacionad
 Segue a lista de pacientes, todos com devidas receitas e suas autorizações:
 
 - Meu pai (Alzheimer)
-- Meu dog (Epilepsia/DorCrônica)
+- Meu dog (Epilepsia/DorCrônica) RIP <3
 - Eu (Ansiedade/Insónia)
 
 <br/>

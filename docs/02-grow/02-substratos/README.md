@@ -19,7 +19,7 @@ Alguns pontos importantes para o substrato, independente de qual tipo você esco
 </br>
 
 
-Outra informação importante é que você pode notar que alguns itens fazem parte tanto do orgânico quanto do inerte, ex:
+Outra informação importante é que você pode notar que alguns itens podem fazer parte tanto do orgânico quanto do inerte, nas receitas mais comuns existentes, ex:
 
 - **Perlita**, é um material leve propõe aeração ao substrato, não retetor de água, semelhante a isopor, porem é de origem mineral.
 - **Vermiculita**, semalhante a Perlita, porem retem mais água e também tem origem mineral.
@@ -31,9 +31,9 @@ Outra informação importante é que você pode notar que alguns itens fazem par
 </br>
 
 ### **Organico**    
-O substrato orgânico é composto principalmente por materiais naturais, como restos de plantas, terra vegetal, cascas, húmus de minhoca e outros resíduos orgânicos. Esses materiais são decompostos por microrganismos presentes no solo, que os transformam em nutrientes essenciais para as plantas.
+O substrato orgânico é composto principalmente por materiais naturais, como restos de plantas, pós de rocha, conchas, tortas vegetais, bokashis, terra vegetal, cascas, húmus de minhoca e outros resíduos orgânicos. Esses materiais são decompostos por microrganismos presentes no solo, que os transformam em nutrientes essenciais para as plantas.
 
-Ao contrário de outros tipos de solo, o substrato orgânico é rico em nutrientes, possui uma enorme vida microbiana acumulada além da capacidade de retenção de água e permite uma boa circulação de ar. Isso cria um ambiente favorável para o crescimento das raízes das plantas, além de ajudar a manter a umidade necessária.
+Ao contrário de outros tipos de solo, o substrato orgânico é rico em nutrientes, possui uma enorme vida microbiana, micorrizas e bacterias acumuladas além da capacidade de retenção de água e permite uma boa circulação de ar. Isso cria um ambiente favorável para o crescimento das raízes das plantas, além de ajudar a manter a umidade necessária.
 
 Uma das vantagens do uso de substrato orgânico é que ele é mais sustentável e amigável ao meio ambiente, uma vez que utiliza materiais reciclados e evita o uso de produtos químicos sintéticos. Além disso, o substrato orgânico pode melhorar a estrutura do solo a longo prazo, promovendo a saúde do ecossistema e contribuindo para a conservação da biodiversidade.
 
@@ -58,14 +58,7 @@ Um exemplo comum de substrato inerte é a fibra de coco, que é uma alternativa 
 
 </br>
 
-### **Semi-Inerte (Bônus)**
-O solo semi-inerte é uma combinação de solo inerte com solo orgânico. Ele contém uma porção de materiais inertes, que proporcionam aeração e drenagem, e uma porção de matéria orgânica, que fornece nutrientes para as plantas. Essa mistura equilibra a disponibilidade de nutrientes e a capacidade de retenção de água.
-
-A idéia por trás do solo semi-inerte é ter um bom controle da nutrição assim como no solo inerte, mas ao mesmo tempo ter uma ajuda da vida microbiana presente no humus e materia orgânica. Muitos pesquisadores acreditam que isso ajuda a planta em questões de micronutrientes, aumentando a eficiência, reduzindo problemas no solo, pestes e doenças.
-
-</br>
-
-### **Hidroponia (Bônus +1)**
+### **Hidroponia/DWC**
 A hidroponia é um método de cultivo de plantas em que as raízes não estão no solo, mas em um meio líquido nutritivo. Em vez de obter nutrientes do solo, as plantas recebem uma solução nutritiva diretamente na água em que estão imersas.
 
 Basicamente, a hidroponia permite cultivar plantas sem solo, usando água e nutrientes dissolvidos. O objetivo é fornecer às plantas tudo o que elas precisam para crescer e se desenvolver, sem depender da terra.
